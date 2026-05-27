@@ -67,4 +67,4 @@ The ProjectDesciption is what you need to replicate using your code except the h
 
 <h2 style="color:red",align=center><b>Output</b></h2>
 
-![Image](Final-Project-HTML-5/ProjectDescription.png)
+![Image](Final-Project-HTML-5/ProjectOutput.png)
